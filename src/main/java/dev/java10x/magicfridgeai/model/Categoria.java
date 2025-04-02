@@ -1,4 +1,4 @@
-package dev.java10x.magicfridgeai;
+package dev.java10x.magicfridgeai.model;
 
 public enum Categoria {
     LATICINIOS("Laticínios"),
